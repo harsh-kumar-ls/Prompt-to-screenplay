@@ -1463,27 +1463,6 @@ CMD ["uvicorn", "app.backend.main:app", "--host", "0.0.0.0"]
 
 ---
 
-##  Contributing
-
-Contributions are welcome! Areas for improvement:
-
-- **Parallel Agents** - Run independent tasks concurrently
-- **Agent Evaluation** - Metrics and quality assessment
-- **Memory Bank** - Long-term context retention
-- **Context Engineering** - Compaction for large inputs
-- **A2A Protocol** - Agent-to-agent communication
-- **Production Deployment** - Docker, cloud hosting
-- **Export Features** - PDF, Final Draft, CSV
-- **File Uploads** - Upload existing scripts/storyboards
-
----
-
-##  License
-
-MIT License - See LICENSE file for details
-
----
-
 ##  Acknowledgments
 
 - **Google Gemini** - LLM for content generation
@@ -1502,5 +1481,3 @@ For issues, questions, or contributions:
 - Review console output for debugging
 
 ---
-
-**Built with love for filmmakers by filmmakers**
